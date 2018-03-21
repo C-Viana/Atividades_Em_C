@@ -1,0 +1,15 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+
+void main(){
+	
+	printf("");
+	printf("\n \xDC\xDC\xDB\xDB\xDB\xDB\xDC\xDC");
+	printf("\n \xDFO\xDF\xDF\xDF\xDFO\xDF");
+	printf("\n\n");
+	printf("\n \xDC\xDC\xDB \xDB\xDB\xDB\xDB\xDB\xDB");
+	printf("\n \xDFO\xDF\xDF\xDF\xDF\xDFOO\xDF");
+	printf("\n\n");
+	
+}
